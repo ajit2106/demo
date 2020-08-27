@@ -11,11 +11,6 @@ something
 ##
 
 trying something new
-<<<<<<< HEAD
-blah blah blah
-=======
-hahaha
-hahaha hohoho
->>>>>>> develop
 
 some gossip
+
