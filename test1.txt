@@ -1,5 +1,7 @@
 ##Info##
 
+Making use of tagging
+
 This is a test file..
 
 Now adding few more lines
